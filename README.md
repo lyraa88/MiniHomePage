@@ -1,3 +1,3 @@
 # Boltxz's Mini Home Page 
 
-# Blood Type : A
+- Blood Type : A
