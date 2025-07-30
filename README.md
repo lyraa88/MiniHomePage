@@ -1,3 +1,3 @@
 # Boltxz's Mini Home Page 
 
-기획 중 ...
+- 좋아하는 음식 : 한식
