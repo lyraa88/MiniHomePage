@@ -1,2 +1,2 @@
-# Boltxz's MiniHome Page 
+# Boltxz's Mini Home Page 
 
